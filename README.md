@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Tutorial
+* Sample Dexie Vue2 https://github.com/LuisHCK/adm2
